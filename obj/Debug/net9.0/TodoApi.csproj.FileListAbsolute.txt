@@ -42,3 +42,16 @@ C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\obj\Debug\net9.0\refint\To
 C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\obj\Debug\net9.0\TodoApi.pdb
 C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
 C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\Namotion.Reflection.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\NJsonSchema.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\NJsonSchema.Annotations.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\NJsonSchema.NewtonsoftJson.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\NJsonSchema.Yaml.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\NSwag.Annotations.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\NSwag.AspNetCore.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\NSwag.Core.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\NSwag.Core.Yaml.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\NSwag.Generation.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
+C:\Users\ADMIN\Documents\Agile\MyFirstproject\TodoApi\bin\Debug\net9.0\YamlDotNet.dll
